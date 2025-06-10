@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Data and outputs (can be large)
+data/
+outputs/
+
+# Checkpoints and logs
+*.pt
+*.log
+
+# Images and media files
+*.jpg
+*.jpeg
+*.png
+
+# Jupyter Notebooks
+*.ipynb
+
+# OS metadata
+.DS_Store
+Thumbs.db
